@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @marianoaguero
-- 👀 I’m interested in Android and iOS
-- 🌱 I’m currently learning iOS
+- 👀 I’m interested in Android, linux and embedded devices
 - 💞️ I’m looking to create an open source lab (http://nabLab.ar)
 - 📫 How to reach me marianoa.aguero@gmail.com
 
